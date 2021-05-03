@@ -1,0 +1,15 @@
+Elastic Search , Logstash , Kibana [ELK]
+JSON Data Format
+SQL
+Restful APIs
+Parsing with Logstash
+Intoduction to Logstash >> Installing Logstash >> Configuring a log file >> Stashing your First Event
+Parsing Logs with Logstash
+Stitching together Multiple Input and Output
+Plugins
+Execution Model
+Searching with elastic search
+Enable Multi Value Tags, Numbers, and Full Text
+Retrieve the full details of any Employee
+Perform Structured Search
+Learn about 
