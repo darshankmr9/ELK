@@ -26,3 +26,40 @@ Understand the concepts of buckets and metrics
 Build Bar chart with buckets
 Look at the time using Date Histogram
 Filter queries and aggregation
+Time analysis , Sorting multivalue Buckets, Approximate Aggregation, Doc Values and field data.
+Data Modeling : Compare Elastic Search with RDBMS.. Handling Relationships ..Nested Objects .. Parent-child Relationships.. Designing for Scale.
+GeoLocation : Geo Points , Geo Hashing, Geo Aggregations, Geo Shapes.
+Visualization with Kibana... >_ Install and Verify Kibana >_ Ingest .json files into ElasticSearch >_ Create different visualizations >_ Pie Chart 
+>_ Bar Chart >_ Coordinate Map >_  Summarize the Dashboard
+.. Setting the Time Filter .. Searching your data >> Filtering by Field >> Viewing Document data >> Viewing Document Context >> Viewing Field Statistics
+>> Data Visualization >> Dashboard >> Analyzing live data with ELK Stack..
+why Logs Ananlysis?? ... Production Monitoring and Debugging ... HTTPS Errors ...Slow Queries >> Tracking Site/Visitors.
+ELK is a simple but robust log analysis and an open source platform.
+Splunk's enterprise software has been the market leader, but it is expensive for small to medium size companies.
+################## Introduction to ELK Stack #######
+Logstash -> Collect, parse and store data (it's a data pipeline ...and ingest data into Elastic search , file system or kafka queue)...pumps the data into any
+destination 
+Elastic Search -> ES is a core serach engine which is a data store for ELK Stack...you can search and analyze on the top of the stored data.
+Kibana --> UI component , Graphing and Charting purpose
+Why SwitchOver to ELK ?? .. Every Application and device generates logs in its own way [different formats]
+NO CONSISTENCY ...DIFFERENT TIME FORMATS IN APPLICATIONS.. 
+DECENTRALIZATION .. Logs are spread across different servers, located in different locations.
+Different servers can have different kinds of logs.
+How is it possible to develop a flexible and user-friendly real-time search engine for 30 million users ??
+Elasticsearch to intelligently search and deliver content to millions of users.
+Every log line is an event in logstash .. Manages Events and Logs >> Collects Data >> Parses Data >> Stores Data >> Enriches Data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
