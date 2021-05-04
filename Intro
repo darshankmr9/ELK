@@ -12,4 +12,17 @@ Searching with elastic search
 Enable Multi Value Tags, Numbers, and Full Text
 Retrieve the full details of any Employee
 Perform Structured Search
-Learn about 
+Learn about full-text search
+Return highlighted search snippets
+Elastic search overview >> Installing and running Elastic Search
+Indexing Documents
+Retrieving a Document
+Searching a Document
+query DSL
+Structured Search >> Full Text Search >> Complicated Search >> Phrase Search >> Highlighting Our Search >> Multi-field Search
+..Proximity Matching >> Partial Matching
+Aggregation >> Time Analysis >> Filtering Queries and Aggregations >> Sorting Multivalue Buckets >> Approximate Aggregation >> Doc Values and Field Data
+Understand the concepts of buckets and metrics
+Build Bar chart with buckets
+Look at the time using Date Histogram
+Filter queries and aggregation
